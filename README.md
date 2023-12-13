@@ -1,0 +1,2 @@
+# CS_iDreamSchool
+FRONTEND BACKEND FULLSTACK DevOps etc.
