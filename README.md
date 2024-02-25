@@ -7,4 +7,4 @@ FRONTEND BACKEND FULLSTACK DevOps etc.
 | :--: | :------------: | :------------: | :----------------------: | :----------: | :-------:|
 | 1 | Git| General | startWithGit: Git for Begginer | 1 ชม. | <a href="https://github.com/LemonMints42BKK/startWithGit.git">click</a> |
 
-<img src="jeff_bezos.png">
+<img src="/img/jeff_bezos.png">
