@@ -1,0 +1,20 @@
+{"backend_state":"ready","kernel":"python3-ubuntu","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"last_ipynb_save":1708773851944,"trust":true,"type":"settings"}
+{"cell_type":"markdown","id":"0c4e78","input":"******","pos":8,"type":"cell"}
+{"cell_type":"markdown","id":"14834c","input":"**3 )** tell me about your Good friend.","pos":3,"type":"cell"}
+{"cell_type":"markdown","id":"22bc6e","input":"---------","pos":15,"type":"cell"}
+{"cell_type":"markdown","id":"3089c3","input":"---------","pos":11.5,"type":"cell"}
+{"cell_type":"markdown","id":"3aec52","input":"### Activity 2: To Quote a Quote\n*******************************\nA quote in non-coding terms is a sentence or short phrase that you\nwant to repeat from a person word for word. You usually see its ##written like this: \n\n> \"Smart people focus on the right thing\" - Jensen Heaug","pos":9,"type":"cell"}
+{"cell_type":"markdown","id":"415829","input":"### Activity 1 : introduce yourself\n\n---\n\nUse the **print\\(\\)** function to introduce yourself. Your introduction \n\nshould be seen on a console window.\n\n","pos":-1,"type":"cell"}
+{"cell_type":"markdown","id":"4e78dc","input":"### Activity 4: Print Multiple lines \n**********\nexample:\n```\nprint(\"Hello, I'm Kru Pat.\\n It's nice tp see you!\\n\\\"I hope you love Python.\\\"\")\n```","pos":16,"type":"cell"}
+{"cell_type":"markdown","id":"ad331c","input":"### Activity 3: Mood is variable\n*******************************\nUsually, our mood changes every day. One day we might be energetic, \nand the next day we might be tried. Or this is Friday, many of us\nare happy! Whatever our mood is, we can use variable to store it.","pos":13,"type":"cell"}
+{"cell_type":"markdown","id":"b3e945","input":"**2 )** tell me about your age and favorited game.","pos":1,"type":"cell"}
+{"cell_type":"markdown","id":"e779d2","input":"**1 )** Example: Hello, my name is Joshua.\n\n","pos":-0.5,"type":"cell"}
+{"cell_type":"markdown","id":"efff3a","input":"---------","pos":18,"type":"cell"}
+{"id":"05ffc0","input":"print()","pos":11,"type":"cell"}
+{"id":"150a9a","input":"mood = \"\"\nprint(f\"Today, I feel mood !\")","pos":14,"type":"cell"}
+{"id":"a4c544","input":"say =\nprint(say)","pos":17,"type":"cell"}
+{"id":"c56484","input":"print()","pos":4,"type":"cell"}
+{"id":"e7b679","input":"print()","pos":2,"type":"cell"}
+{"id":"e957fc","input":"print()","pos":0,"state":"done","type":"cell"}
+{"id":0,"time":1708773875823,"type":"user"}
+{"last_load":1708768461391,"type":"file"}
